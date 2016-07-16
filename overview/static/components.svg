@@ -1,0 +1,188 @@
+<?xml version="1.0" ?><!-- Created with Inkscape (http://www.inkscape.org/) --><svg height="1.2in" id="svg2" inkscape:version="0.91 r13725" sodipodi:docname="components_layout.svg" version="1.1" viewBox="0 0 360 108" width="4in" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:figurefirst="http://flyranch.github.io/figurefirst/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer2" inkscape:cx="180" inkscape:cy="67.470535" inkscape:document-units="in" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="955" inkscape:window-maximized="1" inkscape:window-width="1680" inkscape:window-x="0" inkscape:window-y="1" inkscape:zoom="2.0997143" pagecolor="#ffffff" showgrid="false" units="in"/>
+  <defs id="defs4"/>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1" style="display:none" transform="translate(0,-944.36217)">
+    <rect height="71.757095" id="rect4167" style="fill:#ffffff;fill-opacity:1;stroke:#ed1c24;stroke-width:1.44073105;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" width="71.757095" x="8.0619621" y="971.65289">
+      <figurefirst:axis figurefirst:name="x1"/>
+    </rect>
+    <rect height="71.757095" id="rect4167-5" style="fill:#ffffff;fill-opacity:1;stroke:#ed1c24;stroke-width:1.44073105;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" width="71.757095" x="99.04467" y="971.65289">
+      <figurefirst:axis figurefirst:name="x2"/>
+    </rect>
+    <rect height="71.757095" id="rect4167-0" style="fill:#ffffff;fill-opacity:1;stroke:#ed1c24;stroke-width:1.44073105;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" width="71.757095" x="281.38828" y="971.65289">
+      <figurefirst:axis figurefirst:name="img"/>
+    </rect>
+    <rect height="71.757095" id="rect4167-5-7" style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ed1c24;stroke-width:1.44073105;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" width="71.757095" x="187.7323" y="971.65289">
+      <figurefirst:axis figurefirst:name="noise"/>
+    </rect>
+  </g>
+  <g id="layer2" inkscape:groupmode="layer" inkscape:label="labels" style="display:inline">
+    <text id="text4251" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="265.95462" xml:space="preserve" y="68.277847"><tspan id="tspan4253" sodipodi:role="line" x="265.95462" y="68.277847">=</tspan></text>
+    <text id="text4293" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.89977932px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="20.191113" xml:space="preserve" y="18.219305"><tspan id="tspan4295" sodipodi:role="line" x="20.191113" y="18.219305">&#946;    <tspan id="tspan4556" style="font-weight:bold">x</tspan></tspan></text>
+    <text id="text4293-4" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.89977932px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="202.33136" xml:space="preserve" y="19.612522"><tspan id="tspan4295-4" sodipodi:role="line" x="202.33136" y="19.612522">noise</tspan></text>
+    <text id="text4293-4-2" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.89977932px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="311.96722" xml:space="preserve" y="18.168379"><tspan id="tspan4295-4-7" sodipodi:role="line" style="font-weight:bold" x="311.96722" y="18.168379">y</tspan></text>
+    <text id="text4251-6" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="85.167259" xml:space="preserve" y="69.04528"><tspan id="tspan4253-9" sodipodi:role="line" x="85.167259" y="69.04528">+</tspan></text>
+    <text id="text4293-4-0" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.89977932px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="108.8751" xml:space="preserve" y="18.219305"><tspan id="tspan4295-4-0" sodipodi:role="line" x="108.8751" y="18.219305"> &#946;    <tspan id="tspan4554" style="font-weight:bold">x</tspan></tspan></text>
+    <text id="text4251-6-3" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="173.30501" xml:space="preserve" y="68.996124"><tspan id="tspan4253-9-7" sodipodi:role="line" x="173.30501" y="68.996124">+</tspan></text>
+    <text id="text4448" sodipodi:linespacing="125%" style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="52.198315" xml:space="preserve" y="-19.633299"><tspan id="tspan4452" sodipodi:role="line" x="52.198315" y="-19.633299"/></text>
+    <text id="text4293-48" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44988966px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="30.160788" xml:space="preserve" y="19.753298"><tspan id="tspan4295-5" sodipodi:role="line" x="30.160788" y="19.753298">1</tspan></text>
+    <text id="text4293-48-2" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44988966px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="123.00974" xml:space="preserve" y="19.802408"><tspan id="tspan4295-5-4" sodipodi:role="line" x="123.00974" y="19.802408">2</tspan></text>
+    <text id="text4293-48-3" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44988966px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="60.1805" xml:space="preserve" y="19.753298"><tspan id="tspan4295-5-9" sodipodi:role="line" x="60.1805" y="19.753298">1</tspan></text>
+    <text id="text4293-48-2-2" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44988966px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="153.72189" xml:space="preserve" y="19.802408"><tspan id="tspan4295-5-4-6" sodipodi:role="line" x="153.72189" y="19.802408">2</tspan></text>
+    <text id="text4532" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.17483425px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="38.585186" xml:space="preserve" y="18.210213"><tspan id="tspan4534" sodipodi:role="line" x="38.585186" y="18.210213">&#8226;</tspan></text>
+    <text id="text4532-7" sodipodi:linespacing="125%" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.17483425px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="131.33032" xml:space="preserve" y="18.210213"><tspan id="tspan4534-0" sodipodi:role="line" x="131.33032" y="18.210213">&#8226;</tspan></text>
+  </g>
+<g id="mpl_layer" inkscape:groupmode="layer" inkscape:label="mpl_layer" style="display:inline;stroke-linecap:butt;stroke-linejoin:round" transform="scale(1.25,1.25)"><figurefirst:targetlayer figurefirst:name="mpl_layer"/>
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 86.4  L 288 86.4  L 288 0  L 0 0  L 0 86.4  z " style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 225.110624 79.238252  L 282.5163 79.238252  L 282.5163 21.832576  L 225.110624 21.832576  L 225.110624 79.238252  z " style="fill:none;"/>
+   </g>
+   <g id="PolyCollection_1">
+    <path clip-path="url(#p82b62a405e)" d="M 225.110624 79.238252  L 225.110624 60.103027  L 244.245849 60.103027  L 244.245849 79.238252  L 225.110624 79.238252  z " style="fill:#414141;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p82b62a405e)" d="M 244.245849 79.238252  L 244.245849 60.103027  L 263.381075 60.103027  L 263.381075 79.238252  L 244.245849 79.238252  z " style="fill:#494949;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p82b62a405e)" d="M 263.381075 79.238252  L 263.381075 60.103027  L 282.5163 60.103027  L 282.5163 79.238252  L 263.381075 79.238252  z " style="fill:#222222;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p82b62a405e)" d="M 225.110624 60.103027  L 225.110624 40.967801  L 244.245849 40.967801  L 244.245849 60.103027  L 225.110624 60.103027  z " style="fill:#545454;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p82b62a405e)" d="M 244.245849 60.103027  L 244.245849 40.967801  L 263.381075 40.967801  L 263.381075 60.103027  L 244.245849 60.103027  z " style="fill:#616161;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p82b62a405e)" d="M 263.381075 60.103027  L 263.381075 40.967801  L 282.5163 40.967801  L 282.5163 60.103027  L 263.381075 60.103027  z " style="fill:#363636;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p82b62a405e)" d="M 225.110624 40.967801  L 225.110624 21.832576  L 244.245849 21.832576  L 244.245849 40.967801  L 225.110624 40.967801  z " style="fill:#686868;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p82b62a405e)" d="M 244.245849 40.967801  L 244.245849 21.832576  L 263.381075 21.832576  L 263.381075 40.967801  L 244.245849 40.967801  z " style="fill:#e3e3e3;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p82b62a405e)" d="M 263.381075 40.967801  L 263.381075 21.832576  L 282.5163 21.832576  L 282.5163 40.967801  L 263.381075 40.967801  z " style="fill:#2c2c2c;stroke:#ffffff;stroke-width:0.25;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 225.110624 21.832576  L 282.5163 21.832576  " style="fill:none;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 282.5163 79.238252  L 282.5163 21.832576  " style="fill:none;"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 225.110624 79.238252  L 282.5163 79.238252  " style="fill:none;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 225.110624 79.238252  L 225.110624 21.832576  " style="fill:none;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 79.235736 79.238252  L 136.641412 79.238252  L 136.641412 21.832576  L 79.235736 21.832576  L 79.235736 79.238252  z " style="fill:none;"/>
+   </g>
+   <g id="PolyCollection_2">
+    <path clip-path="url(#p99de213746)" d="M 79.235736 79.238252  L 79.235736 60.103027  L 98.370961 60.103027  L 98.370961 79.238252  L 79.235736 79.238252  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p99de213746)" d="M 98.370961 79.238252  L 98.370961 60.103027  L 117.506187 60.103027  L 117.506187 79.238252  L 98.370961 79.238252  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p99de213746)" d="M 117.506187 79.238252  L 117.506187 60.103027  L 136.641412 60.103027  L 136.641412 79.238252  L 117.506187 79.238252  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p99de213746)" d="M 79.235736 60.103027  L 79.235736 40.967801  L 98.370961 40.967801  L 98.370961 60.103027  L 79.235736 60.103027  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p99de213746)" d="M 98.370961 60.103027  L 98.370961 40.967801  L 117.506187 40.967801  L 117.506187 60.103027  L 98.370961 60.103027  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p99de213746)" d="M 117.506187 60.103027  L 117.506187 40.967801  L 136.641412 40.967801  L 136.641412 60.103027  L 117.506187 60.103027  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p99de213746)" d="M 79.235736 40.967801  L 79.235736 21.832576  L 98.370961 21.832576  L 98.370961 40.967801  L 79.235736 40.967801  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p99de213746)" d="M 98.370961 40.967801  L 98.370961 21.832576  L 117.506187 21.832576  L 117.506187 40.967801  L 98.370961 40.967801  z " style="fill:#bbbbbb;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p99de213746)" d="M 117.506187 40.967801  L 117.506187 21.832576  L 136.641412 21.832576  L 136.641412 40.967801  L 117.506187 40.967801  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 79.235736 21.832576  L 136.641412 21.832576  " style="fill:none;"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 136.641412 79.238252  L 136.641412 21.832576  " style="fill:none;"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 79.235736 79.238252  L 136.641412 79.238252  " style="fill:none;"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 79.235736 79.238252  L 79.235736 21.832576  " style="fill:none;"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4"/>
+  </g>
+  <g id="axes_3">
+   <g id="patch_12">
+    <path d="M 6.44957 79.238252  L 63.855246 79.238252  L 63.855246 21.832576  L 6.44957 21.832576  L 6.44957 79.238252  z " style="fill:none;"/>
+   </g>
+   <g id="PolyCollection_3">
+    <path clip-path="url(#p993b0acfd6)" d="M 6.44957 79.238252  L 6.44957 60.103027  L 25.584795 60.103027  L 25.584795 79.238252  L 6.44957 79.238252  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p993b0acfd6)" d="M 25.584795 79.238252  L 25.584795 60.103027  L 44.72002 60.103027  L 44.72002 79.238252  L 25.584795 79.238252  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p993b0acfd6)" d="M 44.72002 79.238252  L 44.72002 60.103027  L 63.855246 60.103027  L 63.855246 79.238252  L 44.72002 79.238252  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p993b0acfd6)" d="M 6.44957 60.103027  L 6.44957 40.967801  L 25.584795 40.967801  L 25.584795 60.103027  L 6.44957 60.103027  z " style="fill:#666666;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p993b0acfd6)" d="M 25.584795 60.103027  L 25.584795 40.967801  L 44.72002 40.967801  L 44.72002 60.103027  L 25.584795 60.103027  z " style="fill:#666666;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p993b0acfd6)" d="M 44.72002 60.103027  L 44.72002 40.967801  L 63.855246 40.967801  L 63.855246 60.103027  L 44.72002 60.103027  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p993b0acfd6)" d="M 6.44957 40.967801  L 6.44957 21.832576  L 25.584795 21.832576  L 25.584795 40.967801  L 6.44957 40.967801  z " style="fill:#666666;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p993b0acfd6)" d="M 25.584795 40.967801  L 25.584795 21.832576  L 44.72002 21.832576  L 44.72002 40.967801  L 25.584795 40.967801  z " style="fill:#666666;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p993b0acfd6)" d="M 44.72002 40.967801  L 44.72002 21.832576  L 63.855246 21.832576  L 63.855246 40.967801  L 44.72002 40.967801  z " style="fill:#333333;stroke:#ffffff;stroke-width:0.25;"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 6.44957 21.832576  L 63.855246 21.832576  " style="fill:none;"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 63.855246 79.238252  L 63.855246 21.832576  " style="fill:none;"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 6.44957 79.238252  L 63.855246 79.238252  " style="fill:none;"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 6.44957 79.238252  L 6.44957 21.832576  " style="fill:none;"/>
+   </g>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6"/>
+  </g>
+  <g id="axes_4">
+   <g id="patch_17">
+    <path d="M 150.18584 79.238252  L 207.591516 79.238252  L 207.591516 21.832576  L 150.18584 21.832576  L 150.18584 79.238252  z " style="fill:none;"/>
+   </g>
+   <g id="PolyCollection_4">
+    <path clip-path="url(#p9e592b2773)" d="M 150.18584 79.238252  L 150.18584 60.103027  L 169.321065 60.103027  L 169.321065 79.238252  L 150.18584 79.238252  z " style="fill:#414141;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p9e592b2773)" d="M 169.321065 79.238252  L 169.321065 60.103027  L 188.456291 60.103027  L 188.456291 79.238252  L 169.321065 79.238252  z " style="fill:#494949;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p9e592b2773)" d="M 188.456291 79.238252  L 188.456291 60.103027  L 207.591516 60.103027  L 207.591516 79.238252  L 188.456291 79.238252  z " style="fill:#222222;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p9e592b2773)" d="M 150.18584 60.103027  L 150.18584 40.967801  L 169.321065 40.967801  L 169.321065 60.103027  L 150.18584 60.103027  z " style="fill:#212121;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p9e592b2773)" d="M 169.321065 60.103027  L 169.321065 40.967801  L 188.456291 40.967801  L 188.456291 60.103027  L 169.321065 60.103027  z " style="fill:#2e2e2e;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p9e592b2773)" d="M 188.456291 60.103027  L 188.456291 40.967801  L 207.591516 40.967801  L 207.591516 60.103027  L 188.456291 60.103027  z " style="fill:#363636;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p9e592b2773)" d="M 150.18584 40.967801  L 150.18584 21.832576  L 169.321065 21.832576  L 169.321065 40.967801  L 150.18584 40.967801  z " style="fill:#343434;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p9e592b2773)" d="M 169.321065 40.967801  L 169.321065 21.832576  L 188.456291 21.832576  L 188.456291 40.967801  L 169.321065 40.967801  z " style="fill:#282828;stroke:#ffffff;stroke-width:0.25;"/>
+    <path clip-path="url(#p9e592b2773)" d="M 188.456291 40.967801  L 188.456291 21.832576  L 207.591516 21.832576  L 207.591516 40.967801  L 188.456291 40.967801  z " style="fill:#2c2c2c;stroke:#ffffff;stroke-width:0.25;"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 150.18584 21.832576  L 207.591516 21.832576  " style="fill:none;"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 207.591516 79.238252  L 207.591516 21.832576  " style="fill:none;"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 150.18584 79.238252  L 207.591516 79.238252  " style="fill:none;"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 150.18584 79.238252  L 150.18584 21.832576  " style="fill:none;"/>
+   </g>
+   <g id="matplotlib.axis_7"/>
+   <g id="matplotlib.axis_8"/>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p993b0acfd6">
+   <rect height="57.405676" width="57.405676" x="6.44956968" y="21.832576"/>
+  </clipPath>
+  <clipPath id="p99de213746">
+   <rect height="57.405676" width="57.405676" x="79.235736" y="21.832576"/>
+  </clipPath>
+  <clipPath id="p9e592b2773">
+   <rect height="57.405676" width="57.405676" x="150.18584" y="21.832576"/>
+  </clipPath>
+  <clipPath id="p82b62a405e">
+   <rect height="57.405676" width="57.405676" x="225.110624" y="21.832576"/>
+  </clipPath>
+ </defs>
+</g></svg>

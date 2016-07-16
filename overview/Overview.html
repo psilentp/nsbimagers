@@ -11787,7 +11787,7 @@ $( document ).ready(function(){
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Table-of-Contents">Table of Contents<a class="anchor-link" href="#Table-of-Contents">&#182;</a></h1><p><p><div class="lev1"><a href="#Anatomy"><span class="toc-item-num">1&nbsp;&nbsp;</span>Anatomy</a></div><div class="lev1"><a href="#Imaging"><span class="toc-item-num">2&nbsp;&nbsp;</span>Imaging</a></div><div class="lev1"><a href="#Image-registration"><span class="toc-item-num">3&nbsp;&nbsp;</span>Image registration</a></div><div class="lev1"><a href="#Signal-unmixing"><span class="toc-item-num">4&nbsp;&nbsp;</span>Signal unmixing</a></div></p>
+<h1 id="Table-of-Contents">Table of Contents<a class="anchor-link" href="#Table-of-Contents">&#182;</a></h1><p><p><div class="lev1"><a href="#Anatomy"><span class="toc-item-num">1&nbsp;&nbsp;</span>Anatomy</a></div><div class="lev1"><a href="#Imaging"><span class="toc-item-num">2&nbsp;&nbsp;</span>Imaging</a></div><div class="lev2"><a href="#Infinity-space"><span class="toc-item-num">2.1&nbsp;&nbsp;</span>Infinity space</a></div><div class="lev1"><a href="#Strains-and-genetics"><span class="toc-item-num">3&nbsp;&nbsp;</span>Strains and genetics</a></div><div class="lev1"><a href="#Aquisition-protocol"><span class="toc-item-num">4&nbsp;&nbsp;</span>Aquisition protocol</a></div><div class="lev3"><a href="#software-setup"><span class="toc-item-num">4.0.1&nbsp;&nbsp;</span>software setup</a></div><div class="lev3"><a href="#focusing-on-the-steering-muscles"><span class="toc-item-num">4.0.2&nbsp;&nbsp;</span>focusing on the steering muscles</a></div><div class="lev3"><a href="#Data-aquisition"><span class="toc-item-num">4.0.3&nbsp;&nbsp;</span>Data aquisition</a></div><div class="lev1"><a href="#Basic-image-processing"><span class="toc-item-num">5&nbsp;&nbsp;</span>Basic image processing</a></div><div class="lev2"><a href="#Grabbing-ROI's-using-imageJ"><span class="toc-item-num">5.1&nbsp;&nbsp;</span>Grabbing ROI's using imageJ</a></div><div class="lev2"><a href="#Components-based-projections"><span class="toc-item-num">5.2&nbsp;&nbsp;</span>Components based projections</a></div><div class="lev2"><a href="#Dimensionality-reduction-using-regression"><span class="toc-item-num">5.3&nbsp;&nbsp;</span>Dimensionality reduction using regression</a></div><div class="lev1"><a href="#Image-registration"><span class="toc-item-num">6&nbsp;&nbsp;</span>Image registration</a></div></p>
 
 </div>
 </div>
@@ -11806,7 +11806,7 @@ $( document ).ready(function(){
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>The thorax of Diptera consists of three fused segments which are (in order from anterior to posterior) the prothorax, the mesothorax and the metahorax. The wings belong to the mesothorax which is greatly expanded with respect to the prothorax and metathorax. However the major subdivisions of each segment is more or lest repeated serially if you look hard enough. Dorsal-ventrally the segments are subdivided into the Notum,Pleuron and Sternum. Most of the direct flight muscles can be found under the hardened plates of cuticle (sclerites) of the to the Pleuron. Curiously, the halteres -- which are modified hind wings of the metathorax -- have their own set of direct muscles.</p>
+<p>The insect exoskeleton is essentially a continuous sheet consisting of hardened plates known as sclerites separated by more flexible regions that allow movement. Muscles attach directly to theses sclerites, or to tendinous internal folds of cuticle known as apodmes.</p>
 
 </div>
 </div>
@@ -11816,8 +11816,7 @@ $( document ).ready(function(){
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><img src="Thorasic_anatomy.svg"style="height:400px;float: left;"> 
-<img src="thorax.jpg"style="height:400px;"></p>
+<p>The thorax of the true flies (diptera) consists of three fused segments which called (in order from anterior to posterior) the prothorax, the mesothorax and the metahorax. The wings belong to the mesothorax which is greatly expanded with respect to the prothorax and metathorax; however the major subdivisions of each segment is more or lest repeated serially if you look hard enough. Dorsal-ventrally the segments are subdivided into the Notum,Pleuron and Sternum. The muscle fibers of most of the direct flight muscles can be found lying directly under the major sclerites of the Pleuron however they  project and attach to a small set of sclerites within the wing. Curiously, the halteres -- which are modified hind wings of the metathorax -- have their own set of direct muscles.</p>
 
 </div>
 </div>
@@ -11827,6 +11826,30 @@ $( document ).ready(function(){
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<p>Fig 1.1 Schematic of thoracic layout.</p>
+<p><img src="static/Thorasic_anatomy.svg"style="width:400px;float:left;"></p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Fig 1.2 Image of thorax with major sclerites labeled.</p>
+<p><img src="static/thorax.jpg"style="width:400px;float:left;"></p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Fig 1.3 Location of the major steering muscle muscle bodies.</p>
+<p><img src="static/muscle_map_layers.svg"style="width:400px;float:left;"></p>
 
 </div>
 </div>
@@ -11845,6 +11868,259 @@ $( document ).ready(function(){
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Infinity-space">Infinity space<a class="anchor-link" href="#Infinity-space">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>We are using a fairly simple wide-field epi-fluorescent microscope for imaging. The system is the same as a typical upright microscopes you are probably familiar with, with the exception that we have not included an optical pathway for eyepieces, nor have we included any mechanical device to facilitate exchange of the objectives (usually known as the nosepiece). Fundamentally, an infinity microscope is based on a system of two lenses: (1) The Objective lens, so named because it collects light from the object of interest. (2) The tube lens which is responsible for focusing the light onto the camera sensor.</p>
+<p>The range of angles that the objective lens can accept from the sample ultimately sets the upper bound on the microscope's resolving power. This range is specified by the numerical aperture or (NA) of the objective. In an infinity corrected system all rays from a point source of the object are focused into parallel rays of light by the objective lens, though light from different points in space are focused at different angles. Note that for the thin lens approximation of the microscope shown in figure 4 this means that specimen should be located at the focal plane of the lens. In practice, the distance between the front lens of a microscope objective and the specimen need not be the same as the objective focal length, instead this distance is usually specified by the working distance (WD). A key thing to realize here is that the objective lens is doing its work by converting spatial coordinates into angular coordinates. When you buy a microscope objective the effective focal length is sometimes listed, since this value specifies the transformation from space to angles. In the case that this value is not listed - as you will see below- it is easy to work out the effective focal length from the objective magnification, so long as you know the focal length of tube lens that the objective was built for.</p>
+<p>The tube lens essentially works like the objective lens but in reverse; taking the parallel rays from the objective lens and converting the angles back into spatial coordinates on the imaging sensor. As with the objective lens, the mapping between angles to space is a function of the tube lens focal length. From the ray diagram, one can use similar triangles to show that ratio between distances on the object plane and distances on the sensor (the microscope's magnification) is simply the ratio of the focal length of the tube lens, to the focal length of the objective lens.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Fig 2.2 basic infinity setup</p>
+<p><img src="static/basic_infinity_space.svg"style="width:400px;float:left;"></p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Strains-and-genetics">Strains and genetics<a class="anchor-link" href="#Strains-and-genetics">&#182;</a></h1>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>To image calcium activity in the steering muscles we are using GAL-4/UAS system to express the genetically encoded indicator GcAMP6f in the steering muscles. The GAL-4 'driver-line' determines what tissue is targeted, whereas the UAS 'responder line' determines what transgenic protein we will express. The genotypes of the lines I brought are:</p>
+<p>GRM22H05 expresses in the muscles: b1,b2,b3,i1,i2, iii1,iii24, iii3, hg1,hg2,hg3,hg4 as well as a number of neck abdominal and leg muscles that I have not charactarized. GMR39E01 expresses in a similar set of flight muscles, with the exception of i1 and i2.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Aquisition-protocol">Aquisition protocol<a class="anchor-link" href="#Aquisition-protocol">&#182;</a></h1>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="software-setup">software setup<a class="anchor-link" href="#software-setup">&#182;</a></h3><ul>
+<li>Make sure Axoscope,Micromanager, and Matlab are open.</li>
+<li>Design the experiment to determine how long your protocol will run (I reccomend somewhere from 10-20min to ensure that the file sizes are manigeble)</li>
+<li>Setup micromanager with
+<pre><code>  -8X8 binning
+  -21ms exposure time
+  -adjust gain: ...</code></pre>
+</li>
+</ul>
+<h3 id="focusing-on-the-steering-muscles">focusing on the steering muscles<a class="anchor-link" href="#focusing-on-the-steering-muscles">&#182;</a></h3><ul>
+<li>Start micromanager in live mode. </li>
+<li>place a tethered fly in front of the microscope.  </li>
+<li>Position the fly so that you can see the blue light shining on the surface of the cuticle.</li>
+<li>Make sure the fly is flying (it will be difficult to see the </li>
+<li>Focus on the b3 muscle</li>
+</ul>
+<h3 id="Data-aquisition">Data aquisition<a class="anchor-link" href="#Data-aquisition">&#182;</a></h3><ul>
+<li>The camera outputs an exposure signal that we record simultaneously with signals from the arena controller and wingbeat analyzer. We will need to use the exposure signal to synchronize the images with the other data. It's also important that we record the first and last frame coming from the camera so we have a frame of reference. For this reason I usually start acquiring in the following order.</li>
+</ul>
+<p>(1) Axoscope 
+(2) Multidimensional acquisition in micromanager
+(3) Run the experiment protocol in</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Basic-image-processing">Basic image processing<a class="anchor-link" href="#Basic-image-processing">&#182;</a></h1>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Grabbing-ROI's-using-imageJ">Grabbing ROI's using imageJ<a class="anchor-link" href="#Grabbing-ROI's-using-imageJ">&#182;</a></h2><p>For the recordings from the fly steering muscles, we will take the data from the camera and save it as a stack of tiff images, where each image is a 128 X 128 array of 8 bit unsigned integers with values ranging from 0,255. Note that though we may be used to thinking about an image as a matrix, it is also reasonable to consider each of these images as the 16384-dimensional vector created by unraveling the matrix. The most natural representation will depend on the type of processing we wish to perform.</p>
+<p>Typically when using imaging techniques to study neurophysiology, we will probably want to somehow reduce the dimensionality of each image in order to make sense of the data. Perhaps this is so that we have a manageable dataset, but often times the goal is to project the data into a more biologically relevant frame - we are not really interested in how the intensity of the pixels fluctuate over time, but rather the changes in the fluorescence of some cells.</p>
+<p>The simplest method for performing this analysis is to use regions of interest (ROI's): We identify a collection of pixels that fall within a region of the image that we think corresponds to the cells we are interested in. We then summarize the intensity of the those pixels with a simple statistic (mean, median ect..).</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Components-based-projections">Components based projections<a class="anchor-link" href="#Components-based-projections">&#182;</a></h2><p>This ROI approach works quite well when the cells we wish to record from are well separated from one another on the image, but sometimes biology is not so convenient, and the cells we wish to record from overlap in the imaging frame. This is the case for the muscle bodies of the steering muscles, but you might also have this problem using two photon imaging from dense neuropil or nucleus where the axons and dendrites of different cells cannot be entirely resolved.</p>
+<p>There are a number of approaches for disentangling the signals from overlapping biological entities on an images, but they all involve viewing the image as some linear combination of overlapping regions known as components, though the methods for defining these components differ depending on the approach. Techniques such as Principle Components Analysis (PCA) or Independent Components Analysis (ICA) are considered blind techniques since the components are determined using by examining the statistical relationships between the intensity of the various pixels as they change over time. For the steering muscles of the thorax we are in a somewhat fortunate situation that we understand the anatomy fairly well and, the anatomy is fairly steriotyped from fly-to-fly. For this reason we have the oportunity to define the components more explicetly.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>To provide a simple example of how we might do this, consider a very low resolution image, $\boldsymbol{y}$, that is composed of only two pixels. Pretend that we know that within the field of view of this image there is a large cell that fills both pixels. We also know that there is a small, 1 pixel-wide cell sitting in the second pixel over. Now if we knew the fluorescence intensity of each of these cells we would predict the intensity of the final image to be the sum of these two distinct components. Say the large cell is active at an intensity $\beta_{1}$, and the small cell is active at a value of $\beta_{2}$, then the final distribution of pixel intensities would be: $$\boldsymbol{y} = \begin{bmatrix}\beta_{1}&\beta_{1}+\beta_{2}\end{bmatrix}$$</p>
+<p>Of course, our goal is to determine $\beta_{1}$ and $\beta_{2}$ from the image, $\mathbf{y}$, which is fairly easy in this simple case. We get $\beta_{1}$, from the value of $y_{1}$, and we can get $\beta_{2}$ by subtracting  $\beta_{1}$ from $y_{2}$.</p>
+<p>A more general way of solving for $\beta_{1}$ and $\beta_{2}$ however is by writing the matrix equation:</p>
+<p>$\begin{bmatrix}\mathbf{x_{1}} & \mathbf{x_{2}}\end{bmatrix}\boldsymbol{\beta} = \mathbf{y}$ where x1, x2 are respectively, the column vectors $\begin{bmatrix} 1\\ 1\\\end{bmatrix}$ and $\begin{bmatrix} 0\\ 1\\\end{bmatrix}$, that tell us the spatial distribution of cell 1 and cell 2.</p>
+<p>We can then just solve for the betas with $\boldsymbol{\beta} = \begin{bmatrix}\mathbf{x_{1}} & \mathbf{x_{2}}\end{bmatrix}^{-1}\mathbf{y}$</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[175]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">np</span><span class="o">.</span><span class="n">vstack</span><span class="p">((</span><span class="n">x1</span><span class="p">,</span><span class="n">x2</span><span class="p">))</span><span class="o">.</span><span class="n">T</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area"><div class="prompt output_prompt">Out[175]:</div>
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>array([[1, 0],
+       [1, 1]])</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[176]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="kn">as</span> <span class="nn">np</span>
+<span class="n">b1</span><span class="p">,</span><span class="n">b2</span> <span class="o">=</span> <span class="p">(</span><span class="mi">3</span><span class="p">,</span><span class="mi">8</span><span class="p">)</span>
+<span class="n">x1</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">])</span>
+<span class="n">x2</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">])</span>
+<span class="n">img</span> <span class="o">=</span> <span class="n">x1</span><span class="o">*</span><span class="n">b1</span> <span class="o">+</span> <span class="n">x2</span><span class="o">*</span><span class="n">b2</span>
+<span class="n">xinv</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">linalg</span><span class="o">.</span><span class="n">inv</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">vstack</span><span class="p">((</span><span class="n">x1</span><span class="p">,</span><span class="n">x2</span><span class="p">))</span><span class="o">.</span><span class="n">T</span><span class="p">)</span>
+<span class="n">b1_</span><span class="p">,</span><span class="n">b2_</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">xinv</span><span class="p">,</span><span class="n">img</span><span class="p">)</span>
+<span class="k">print</span> <span class="n">np</span><span class="o">.</span><span class="n">allclose</span><span class="p">((</span><span class="n">b1_</span><span class="p">,</span><span class="n">b2_</span><span class="p">),(</span><span class="n">b1</span><span class="p">,</span><span class="n">b2</span><span class="p">))</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area"><div class="prompt"></div>
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>True
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Dimensionality-reduction-using-regression">Dimensionality reduction using regression<a class="anchor-link" href="#Dimensionality-reduction-using-regression">&#182;</a></h2><p>Of course we have set things up here so that the there is a single, unique solution to our linear system since the matrix $X = \begin{bmatrix}\mathbf{x_{1}} & \mathbf{x_{2}}\end{bmatrix}$ (sometimes called the design matrix) is square and invertible. In practice, this is not often (probably never) going to be the case. We will have many more pixels than components (the system is overdetermined), and our image will be contaminated by some noise (making the system inconsistent).</p>
+<p>To solve the problem when we have a non-square $X$  and inconsistent data, we can use the generalized inverse, or pseudo-inverse to find the least-squares solution.</p>
+<p>Consider a more realistic example, lets pretend we now have a 6x6 pixel sensor. Again, we have two cells, but now cell 1 fills a 2x2 pixel area in the top left of the sensor, and cell 2 is where it was before one pixel over at the top row. To solve this problem we unravel the image to treat it as a vector and find the betas using:</p>
+<p>$\boldsymbol{\beta} = \mathbf{y}X^{+}$</p>
+<p>where $X^+$ is the pseudoinverse of $X$.</p>
+<p>It is worth realizing here, that if the components of $X$ don't overlap, this approach will simply return the average pixel intensity within each of the components - equivalant to just taking means within ROI's.</p>
+<p>Additionally, there is no reason why the elements of the design matrix need to be binary. Since X essentially constitutes a model of how we believe fluorescence from the underlying biological entities contribute to photons detected on our imaging sensor, we can use fractional values in X to account for blur from out of focus light if we choose. The extraction routene in used by the planotaxis program uses a model constructed by blurring high resolution confocal sections to approximate the view through our wide-field objective.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[177]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="kn">as</span> <span class="nn">np</span>
+<span class="n">b1</span><span class="p">,</span><span class="n">b2</span> <span class="o">=</span> <span class="p">(</span><span class="mf">3.</span><span class="p">,</span><span class="mf">8.</span><span class="p">)</span>
+<span class="n">x1</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">0</span><span class="p">],[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">0</span><span class="p">],[</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">]])</span> <span class="c1"># cell 1</span>
+<span class="n">x2</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">0</span><span class="p">],[</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">],[</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">]])</span> <span class="c1"># cell 2</span>
+<span class="n">img</span> <span class="o">=</span> <span class="n">x1</span><span class="o">*</span><span class="n">b1</span> <span class="o">+</span> <span class="n">x2</span><span class="o">*</span><span class="n">b2</span>
+<span class="n">img</span> <span class="o">+=</span> <span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">rand</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span><span class="mi">3</span><span class="p">)</span><span class="o">-</span><span class="mf">0.5</span><span class="p">)</span>
+<span class="n">xinv</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">linalg</span><span class="o">.</span><span class="n">pinv</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">vstack</span><span class="p">((</span><span class="n">x1</span><span class="o">.</span><span class="n">ravel</span><span class="p">(),</span><span class="n">x2</span><span class="o">.</span><span class="n">ravel</span><span class="p">()))</span><span class="o">.</span><span class="n">T</span><span class="p">)</span>
+<span class="n">b1_</span><span class="p">,</span><span class="n">b2_</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">dot</span><span class="p">(</span><span class="n">xinv</span><span class="p">,</span><span class="n">img</span><span class="o">.</span><span class="n">ravel</span><span class="p">())</span>
+<span class="k">print</span> <span class="n">b1_</span><span class="p">,</span><span class="n">b2_</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area"><div class="prompt"></div>
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>2.97013629644 7.55032914811
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Image-registration">Image registration<a class="anchor-link" href="#Image-registration">&#182;</a></h1>
 </div>
 </div>
@@ -11854,9 +12130,100 @@ $( document ).ready(function(){
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Signal-unmixing">Signal unmixing<a class="anchor-link" href="#Signal-unmixing">&#182;</a></h1>
+
 </div>
 </div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span> 
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span> 
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span> 
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span> 
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span> 
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span> 
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span> 
+</pre></div>
+
+</div>
+</div>
+</div>
+
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
